@@ -56,7 +56,10 @@ Once you open it you will put in this code make sure you put the bool spelled co
     }
 ```
 
-## 6. Then PlayTest the game and then there you have a character that can wall run on anytging.
+## 6. Then add these platforms into the script before you PlayTest to the game and then there you have a character that can wall run on anything.
+
+![GameObjectPlatformIntoTheScriptScreenShot](https://github.com/LSBUGPG/Vision/assets/17784224/c35ad21e-fef5-4f40-8ce7-63e7291fb3cb)
+
 Special Thanks to Noblob for the tutorial I've followed.
 
 Channel: https://www.youtube.com/@NoblobRS
