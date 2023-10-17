@@ -60,7 +60,7 @@ Once you open it you will put in this code make sure you put the bool spelled co
 
 ![GameObjectPlatformIntoTheScriptScreenShot](https://github.com/LSBUGPG/Vision/assets/17784224/c35ad21e-fef5-4f40-8ce7-63e7291fb3cb)
 
-https://gyazo.com/5bcc36114a0c214702ef8976b59ce457
+[](https://github.com/LSBUGPG/Vision/assets/17784224/1c1c6b01-9bf5-42f4-8890-3d368e48acbf)](https://github.com/LSBUGPG/Vision/assets/17784224/1c1c6b01-9bf5-42f4-8890-3d368e48acbf)
 
 Special Thanks to Noblob for the tutorial I've followed.
 
